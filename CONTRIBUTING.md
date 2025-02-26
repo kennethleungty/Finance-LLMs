@@ -8,21 +8,3 @@
 - You can have a look at how the previous entries are done in the README
 
 Here's a big thank you for your contributions!
-
-We are open to contributions to the following industries:
-- Automotive
-- Consumer Products
-- Education
-- Energy
-- Finance (aka Financial Institutions)
-- Healthcare
-- Industrial Goods
-- Insurance
-- Media
-- Public Sector
-- Real Estate
-- Retail
-- Sports
-- Telecommunications
-- Transportation & Logistics
-- Travel & Tourism
