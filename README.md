@@ -29,7 +29,7 @@ ___
 
 <a name="banking"></a>
 ## Banking & Payments
-| Name | Model Type | Date | Description | Website | Paper |
+| Name | Type | Date | Description | Site | Paper |
 | --- | --- | --- | --- | --- | --- |
 | MUFG Bank | Undisclosed | Feb 2025 | MUFG Bank leveraged LLMs to automate data extraction and summarization from corporate reports, enabling faster financial analysis for FX & Derivative Sales. The system, leveraging retrieval-augmented generation (RAG) and fine-tuned prompts, reduces client presentation preparation from hours to minutes, thereby improving client advisory efficiency. | [🔗](https://blog.langchain.dev/customers-mufgbank/) | - |
 | Deutsche Bank & Google | Pre-trained | Feb 2025 | Deutsche Bank leverages Google Cloud’s Vertex AI and Gemini LLMs to streamline banking operation. It involves automating document processing for regulatory compliance, enhancing customer support with AI-powered assistants, and accelerating software development for financial services. | [🔗](https://blog.google/products/google-cloud/deutsche-bank-google-cloud-partner/) | - |
@@ -64,7 +64,7 @@ ___
 ___
 <a name="investments"></a>
 ## Investments & Capital Markets
-| Name | Type | Date | Description | Website | Paper |
+| Name | Type | Date | Description | Site | Paper |
 | --- | --- | --- | --- | --- | --- |
 | PIMCO & Azure | Pre-trained | Feb 2025 | PIMCO developed ChatGWM, an AI-powered search tool built on Azure AI, to enhance client service by streamlining information retrieval for its associates. ChatGWM utilizes retrieval-augmented generation (RAG) to search across approved structured and unstructured data sources, and then process them with Azure OpenAI LLM to provide accurate and up-to-date information swiftly. | [🔗](https://www.microsoft.com/en/customers/story/19744-pimco-sharepoint) | - |
 | Rogo & OpenAI | Fine-tuned | Feb 2025 | Rogo's fine-tuned OpenAI models and integration of extensive financial datasets (including S&P Global, Crunchbase, and FactSet) allows it to scale financial analysis and deliver real-time financial intelligence to >5k financial professionals, shifting their focus from manual work to high-value decision making. It uses GPT-4o for in-depth financial analysis, o1-mini for contextualizing financial data, and o1 for evaluations and advanced reasoning. | [🔗](https://openai.com/index/rogo/) | - |
@@ -89,7 +89,7 @@ ___
 ___
 <a name="insurance"></a>
 ## Insurance & Risk Management
-| Name | Type | Date | Description | Website | Paper |
+| Name | Type | Date | Description | Site | Paper |
 | --- | --- | --- | --- | --- | --- |
 | Allianz Insurance Copilot | Undisclosed | Feb 2025 | An internal generative AI system to assist with claims management. Launched in 2024 for auto claims, it leverages cutting-edge LLMs to streamline workflows and automate key tasks. | [🔗](https://www.allianz.com/en/mediacenter/news/articles/250205-smarter-claims-management-smoother-settlements.html) | - |
 | AllianzGPT | Undisclosed | Feb 2025 | Internal chatbot that leverages capabilities from different LLM providers (e.g., OpenAI, DeepSeek) on Azure to support general productivity tasks, as well as specific functional areas like audit, Risk Consulting actuarial and other business areas. | [🔗](https://www.allianz.com/en/mediacenter/news/articles/250218-ai-at-allianz-the-impact-of-allianzgpt.html) | - |
