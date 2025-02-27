@@ -5,7 +5,7 @@
 ## 📌 Context  
 Large Language Models (LLMs) are transforming financial services, unlocking powerful capabilities in everything from high-stakes risk assessment to automated financial reporting. These AI-driven models are redefining how financial institutions approach banking, trading, asset management, and regulatory compliance.
 
-As the financial sector continues to embrace AI, a new trend is emerging — LLMs tailored specifically for financial services. Whether general-purpose, pre-trained or fine-tuned on sector-specific data, these LLMs are designed to understand industry regulations, complex financial terminology, and real-world market dynamics. The result? Smarter, more efficient financial decision-making powered by LLMs.
+As the financial sector continues to embrace AI, a new trend is emerging — LLMs tailored specifically for financial services. Whether general-purpose, pre-trained or fine-tuned on sector-specific data, these LLMs are designed to understand industry regulations, complex financial terminology, and real-world market dynamics.
 
 This repository is your go-to resource for finance-focused LLMs, featuring a curated collection of cutting-edge models, collaborations between financial institutions and LLM providers, and real-world case studies that showcase how companies are leveraging LLMs to gain a competitive edge.
 
