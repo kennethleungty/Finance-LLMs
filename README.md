@@ -3,13 +3,13 @@
 
 
 ## 📌 Context  
-Large Language Models (LLMs) are transforming financial services, unlocking powerful capabilities in everything from high-stakes risk assessment to automated financial reporting. These AI-driven models are redefining how institutions approach banking, trading, asset management, and regulatory compliance.
+Large Language Models (LLMs) are transforming financial services, unlocking powerful capabilities in everything from high-stakes risk assessment to automated financial reporting. These AI-driven models are redefining how financial institutions approach banking, trading, asset management, and regulatory compliance.
 
-As the financial sector embraces AI, a new trend is emerging—LLMs trained specifically for finance. Whether pre-trained or fine-tuned on sector-specific data, these models are designed to understand industry regulations, complex financial terminology, and real-world market dynamics. The result? Smarter, more efficient financial decision-making powered by AI.
+As the financial sector continues to embrace AI, a new trend is emerging — LLMs tailored specifically for financial services. Whether general-purpose, pre-trained or fine-tuned on sector-specific data, these LLMs are designed to understand industry regulations, complex financial terminology, and real-world market dynamics. The result? Smarter, more efficient financial decision-making powered by LLMs.
 
-This repository is your go-to resource for finance-focused LLMs, featuring a curated collection of cutting-edge models, collaborations between financial institutions and AI developers, and real-world case studies that showcase how companies are leveraging LLMs to gain a competitive edge.
+This repository is your go-to resource for finance-focused LLMs, featuring a curated collection of cutting-edge models, collaborations between financial institutions and LLM providers, and real-world case studies that showcase how companies are leveraging LLMs to gain a competitive edge.
 
-By bridging AI and finance, this collection tracks the latest advancements, trends, and breakthroughs shaping the future of financial technology.
+By bridging (Gen)AI and finance, this collection tracks the latest advancements, trends, and breakthroughs shaping the future of financial technology.
 
 If you know of examples of LLMs used in the finance industry that should be added to this repository, feel free to submit a **pull request** or open an **issue**! 
 
