@@ -2,7 +2,7 @@
 <h2 align="center"><strong>Comprehensive Compilation of LLM Implementation in Financial Services</strong></h2>
 
 
-## 📚 Compilation Context  
+### 📚 Compilation Context  
 Large Language Models (LLMs) are transforming financial services, unlocking powerful capabilities and redefining how financial institutions approach banking, trading, asset management, and regulatory compliance.
 
 As AI takes hold in the industry, a new wave of finance-specific implementations is emerging. These solutions (be they enterprise-wide integrations, specialized models, or targeted plug-and-play tools) handle complex regulations, advanced financial terminology, and real-world market scenarios with remarkable efficiency.
@@ -13,7 +13,7 @@ If you know of examples of LLMs used in the finance industry that should be adde
 
 [![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
 ___
-## 📑 Contents
+### 📑 Table of Contents
 - [Retail & Commercial Banking](#banking)
     - Covers personal and business banking services—checking and savings accounts, mortgages, SME financing, and credit solutions. Also addresses central banking operations, digital transformation in traditional banks, and AI-driven advisory for both retail and corporate clients.
 - [Wealth Management & Capital Markets](#wealth)
