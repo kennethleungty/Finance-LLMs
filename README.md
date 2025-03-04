@@ -30,7 +30,7 @@ Each example can be classified into one of 3 categories based on type of use cas
 ___
 ## 📚 Compilation  
 <!-- Copy the following string to create a new entry! -->
-<!-- | LLM Name | Training Type (e.g., Fine-tuned) | Month Year | Brief description | [🔗](https://github_or_website.com) | [🔗](https://arxiv_or_other_paper.com) | -->
+<!-- | LLM Name | Use Case Type | Month Year | Brief description | [🔗](https://github_or_website.com) | [🔗](https://arxiv_or_other_paper.com) | -->
 
 <a name="banking"></a>
 ## Retail & Commercial Banking
