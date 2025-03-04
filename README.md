@@ -1,5 +1,5 @@
 <h1 align="center"><strong>📈 🧠<br>Finance LLMs</strong></h1>
-<h2 align="center"><strong>Comprehensive Compilation of Real-World LLM Implementation in Financial Services</strong></h2>
+<h2 align="center"><strong>Comprehensive Compilation of LLM Implementation in Financial Services</strong></h2>
 
 
 ## 📌 Context  
