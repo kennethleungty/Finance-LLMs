@@ -1,10 +1,33 @@
 # Contribution Guide
 
-- Looking to contribute an article to this collection? Go ahead and make a pull request or just raise an issue
-- Check whether your contribution is already inside this compilation. Nonetheless, updates on existing content (e.g., improve description, edit weblinks) are welcome!
-- Contributions should be from reputable sources and ideally *not* behind a paywall
-- Here's how you can add your contribution as a markdown in the appropriate section: 
-    - `| LLM Name | Training Type (e.g., Fine-tuned) | Month Year | Description | [🔗](https://github_or_website.com) | [🔗](https://arxiv_or_other_paper.com) |`
-- You can have a look at how the previous entries are done in the README
+This repository tracks real-world LLM implementations in financial services. Contributions are welcome via pull request or issue.
 
-Here's a big thank you for your contributions!
+## Submission Guidelines
+
+1. Verify your contribution isn't already listed (updates to existing entries are welcome)
+2. Use reputable sources, ideally not behind paywalls
+3. Choose the appropriate section:
+   - Retail & Commercial Banking
+   - Wealth Management & Capital Markets
+   - Payments & FinTech
+   - Insurance & Risk Management
+
+## Entry Format
+
+```
+| Company/Model Name | Type | Month Year | Brief description | [🔗](https://source_link.com) | [🔗](https://paper_link.com) |
+```
+
+Implementation types:
+- Enterprise Platform - Organization-wide deployments across multiple business lines
+- Integrated Solution - Vendor solutions or cloud services for specific workflows
+- Fine-Tuned Model - Domain-specific models trained on financial data
+
+Writing descriptions (1-2 sentences, ~50-70 words):
+- Include: company name, technology/LLM used, specific use cases, quantifiable impact
+- Focus on measurable results and scale indicators
+- Example: "BNY developed Eliza, an enterprise AI platform powered by OpenAI models, enabling 20,000 employees to build AI agents across 125+ live use cases. The platform reduces legal contract review time by 75% for 3,000+ annual vendor agreements."
+
+Review existing README entries for reference, or open an issue for questions.
+
+Thank you for contributing!
