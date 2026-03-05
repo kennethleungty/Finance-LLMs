@@ -121,7 +121,7 @@ ___
 
 ___
 <a name="payments"></a>
-## Payments & FinTech
+## Payments & Transaction Services
 | Name | Type | Date | Description | Site | Paper |
 | --- | --- | --- | --- | --- | --- |
 | Stripe Minions | Integrated Solution | Feb 2026 | Stripe is deploying “Minions,” LLM-powered one-shot end-to-end coding agents that turn a Slack prompt into a fully formed, CI-passing pull request autonomously. The agents now generate and merge over 1,300 PRs per week, materially expanding engineering throughput | [🔗](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) | - |
