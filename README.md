@@ -123,9 +123,10 @@ ___
 
 ___
 <a name="payments"></a>
-## Payments & FinTech
+## Payments & Transaction Services
 | Name | Type | Date | Description | Site | Paper |
 | --- | --- | --- | --- | --- | --- |
+| Stripe Minions | Integrated Solution | Feb 2026 | Stripe is deploying “Minions,” LLM-powered one-shot end-to-end coding agents that turn a Slack prompt into a fully formed, CI-passing pull request autonomously. The agents now generate and merge over 1,300 PRs per week, materially expanding engineering throughput | [🔗](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) | - |
 | Mercado Libre & OpenAI | Integrated Solution | Sep 2024 | Mercado Libre uses GPT-4o to power Verdi, an internal development platform that enables 17,000 engineers to rapidly build AI tools—including for its fintech arm, Mercado Pago. Verdi accelerates application development and automates tasks like customer service mediation, supporting financial operations at scale while improving efficiency and consistency across its digital payments ecosystem. | [🔗](https://openai.com/index/mercado-libre/) | - |
 | FinQuery & Google | Integrated Solution | Jun 2024 | FinQuery, a fintech company, is using Gemini as a productivity and collaboration tool to help in brainstorming sessions, draft emails 20% faster, manage complex cross-organizational project plans, and aid engineering teams with debugging code and evaluating new monitoring tools. | [🔗](https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace) | - |
 | Discover Financial Services & Google | Enterprise Platform | Apr 2024 | Discover Financial partnered with Google Cloud to utilize LLMs to helps its 10,000 contact center representatives to search and synthesize information across detailed policies and procedures during calls. | [🔗](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2024/Discover-Financial-Services-Deploys-Google-Clouds-Generative-AI-to-Transform-Customer-Service/default.aspx) | - |
