@@ -1,13 +1,13 @@
 <p align="center">
   <img src="assets/finance-llms.png" alt="Finance LLMs" width="400">
 </p>
-<h2 align="center"><strong>Compilation of LLM Use Cases in Financial Services</strong></h2>
+<h2 align="center"><strong>Compilation of Real-World LLM & AI Agent Use Cases in Financial Services</strong></h2>
 
 
 ### Context  
-Large language models (LLMs) are transforming financial services: from streamlining regulatory compliance and accelerating deal analysis to personalizing customer experiences and automating complex workflows across banking, trading, and asset management.
+Large language models (LLMs) and AI agents are transforming financial services: from streamlining regulatory compliance and accelerating deal analysis to personalizing customer experiences and automating complex workflows across banking, trading, and asset management.
 
-This repository curates real-world LLM implementations in finance, showcasing enterprise platforms, specialized models, and integrated solutions deployed by leading financial institutions worldwide.
+This repository curates real-world LLM and agentic AI implementations in finance, showcasing enterprise platforms, specialized models, and integrated solutions deployed by leading financial institutions worldwide.
 
 Have a great example of LLMs in the financial services sector? Contribute by opening a **pull request** or submitting an **issue**.
 
