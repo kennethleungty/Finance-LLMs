@@ -1,0 +1,8 @@
+# Local research guidelines & sweep ledger (not pushed to public repo)
+RESEARCH_CRITERIA.md
+RESEARCH_LEDGER.md
+*.local.md
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
